@@ -1,2 +1,3 @@
-config: 
-      "branch master spring-cloud-config-prod" version=1.0
+config:
+      info:
+            branch master spring-cloud-config-prod version=1
