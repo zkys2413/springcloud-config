@@ -1,2 +1,3 @@
 config:
-      "branch master spring-cloud-config-dev.xml "
+      info:
+            branch master spring-cloud-config-dev.yml version=1
