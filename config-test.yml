@@ -1,2 +1,2 @@
-config：
-      "  master branch  dev-test-springcloud-config-test" version=1
+config:
+      info: master branch  dev-test-springcloud-config-test version=1
